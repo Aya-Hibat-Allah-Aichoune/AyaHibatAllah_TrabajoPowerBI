@@ -1,0 +1,5 @@
+*.pbix binary
+*.pbip binary
+*.docx binary
+*.xlsx binary
+*.zip binary
